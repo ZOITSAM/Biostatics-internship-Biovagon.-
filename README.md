@@ -8,3 +8,5 @@ Scrolled down and found the hits. copared the homo spaience paralogs and the ort
 It was interesting to see the different versions of insulin genes and also how similar this gene was with potential ancestors of ours , that showed how importnt this gene is for survival and thus is naturally conserved gene. 
 
 Day 2-
+I searched in ( https://www.ensembl.org) , changed species to human, and searched for the INS ( insulin gene), and clicked the first result with Ensembl Gene ID : ENSG00000254647 [ made sure it started with ENS...]. 
+Then found the location ( choromose 11) and then checked the start - end of gene ( 2,159,779-2,161,221, and noticed it is the reversed stracnd (-). Subtracted the differencef between start-end position and got 1442 bp gene length. 
