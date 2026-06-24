@@ -18,3 +18,6 @@ Lastly we go to ClinVar ( https://www.ncbi.nlm.nih.gov/clinvar) and on the Gene 
 ClinVar shows first large chromosome duplications, not individual mutations --> need to use filters on the left (under molecular sequence). 
 Chose 'pathogenic' and 'missense'.
 I chose a mutation that changes Gly --> Ser showing it is a missense mutation 
+
+Day 3- GEO
+Go to (https://www.ncbi.nlm.nih.gov/geo/) , serach insulin human TISSUE, click on right : GeoDataSet, 
