@@ -20,4 +20,13 @@ Chose 'pathogenic' and 'missense'.
 I chose a mutation that changes Gly --> Ser showing it is a missense mutation 
 
 Day 3- GEO
-Go to (https://www.ncbi.nlm.nih.gov/geo/) , serach insulin human TISSUE, click on right : GeoDataSet, 
+Go to (https://www.ncbi.nlm.nih.gov/geo/) , serach INS human, clocked on right tissue. Then had only one result, clicked , then on the Find genes on the searching tab "find gene anme or symbol" and searched INS , and clcked on tissue -> opened new tab with the resutls and got the infomation about the expression of insulin on different tissue types. log 2 was not available. 
+  On the tab I had open on Enseble regarding the insulin gene, I saw how many results and answered the question" How many transcripts does the insulin gene have?"]
+  then compared the first (canonical) reult with the forth transcript (variant).  Compared their length and exons' number. 
+Couldnt udnerstand how to compare and where to find the info regarding insulin expressison T2DM vs Normal gene. 
+
+Day 4- UniProt
+Go to UniProt website (https://www.uniprot.org), SEARCH ins AND THEN ON THE LEFT TOP CLICK 'Reviewed Swiss-prot' and human. Clicked the first result. Chece the [AN-GO annotation ( P number). Then checked the protein's entry name ( title) and full name ( next to protein subtitle). 
+Under PMT/Processing section i find info regarding : signal position, chains of protein etc. 
+Then we had to identify functional domains in the insulin protein family using InterPro/Pfam. So we go ( 
+
